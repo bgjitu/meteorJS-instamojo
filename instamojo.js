@@ -2,7 +2,7 @@
 // applications. See instamojo-tests.js for an example of importing.
 
 
-export const name = 'instamojo';
+//export const name = 'instamojo';
 
 Instamojo = function(api_key, auth_token, endpoint){
     /*
